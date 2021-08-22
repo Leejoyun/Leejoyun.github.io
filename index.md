@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Leejoyun/Leejoyun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Leejoyun/Leejoyun.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+<body>
+  <h1>수업 링크 목록</h1> <p>
+</body>
+<A href="https://www.google.com/search?q=%EC%9D%B8%EA%B0%84+%EC%A2%85&sxsrf=ALeKk01WKQgJ2GX0yYquK-SHx-0GkqtB4w:1629617963921&tbm=isch&source=iu&ictx=1&fir=NGdVyesavTI2hM%252ClOPJeB_eBVZGEM%252C%252Fm%252F0dgw9r&vet=1&usg=AI4_-kQ8E7Zub57Ch3ShnPwJ2vzgWlsb4Q&sa=X&ved=2ahUKEwi6k-_-j8TyAhUVLqYKHb-JAS4Q_B16BAg4EAE#imgrc=NGdVyesavTI2hM"> 줌수업 연결 </A>
+</html>
